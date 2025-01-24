@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vilarj
 - 👀 I’m interested in Software Engineering and gaming
-- 🌱 I’m currently working for a SaaS company as a Software Engineer
 - 💞️ I’m looking to continue growing my YouTube channel -> https://www.youtube.com/@vilarj
 - 📫 You can reach me at https://www.linkedin.com/in/vilarjimenez/
 
