@@ -14,4 +14,4 @@
 ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=vilarj&theme=react-dark&hide_border=true&area=true)
 
 ---
-![Profile Views](https://komarev.com/ghpv/?username=vilarj&color=blueviolet&style=flat-square)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvilarj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
