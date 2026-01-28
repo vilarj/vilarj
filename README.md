@@ -12,6 +12,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarj&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vilarj&theme=radical)
 ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=vilarj&theme=react-dark&hide_border=true&area=true)
-
----
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvilarj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
