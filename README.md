@@ -9,6 +9,5 @@
 - 🎮 Avid gamer (Cyberpunk 2077, The Witcher series, Red Dead Redemption, Dark Souls) who appreciates immersive storytelling and intricate game design.
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarj&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vilarj&theme=radical)
 ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=vilarj&theme=react-dark&hide_border=true&area=true)
