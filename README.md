@@ -10,4 +10,5 @@
 
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vilarj&theme=radical)
-![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=vilarj&theme=react-dark&hide_border=true&area=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vilarj&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)
